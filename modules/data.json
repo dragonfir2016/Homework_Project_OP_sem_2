@@ -1,0 +1,161 @@
+{
+    "page": 1,
+    "total_results": 8,
+    "total_pages": 1,
+    "results": [
+        {
+            "popularity": 24.446,
+            "vote_count": 8660,
+            "video": false,
+            "poster_path": "/tgr5Pdy7ehZYBqBkN2K7Q02xgOb.jpg",
+            "id": 1895,
+            "adult": false,
+            "backdrop_path": "/7iAfkan6QFrJH8UBjdHUPqTO1a6.jpg",
+            "original_language": "en",
+            "original_title": "Star Wars: Episode III - Revenge of the Sith",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "title": "Star Wars: Episode III - Revenge of the Sith",
+            "vote_average": 7.3,
+            "overview": "The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.",
+            "release_date": "2005-05-17"
+        },
+        {
+            "popularity": 2.926,
+            "vote_count": 3,
+            "video": true,
+            "poster_path": null,
+            "id": 282315,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Star Wars: Bounty Hunter - Beyond The Game",
+            "genre_ids": [
+                28,
+                16,
+                878
+            ],
+            "title": "Star Wars: Bounty Hunter - Beyond The Game",
+            "vote_average": 8.3,
+            "overview": "Jango Fett, the most feared and fearless bounty hunter in the galaxy. His mission is to find the leader of a mysterious and deadly cult. Armed with an array of deadly skills, his blaster and jetpack, Jango Fett faces off against the scum of the interstellar underworld to hunt down and destroy a deranged dark Jedi.",
+            "release_date": "2013-09-19"
+        },
+        {
+            "popularity": 0.84,
+            "id": 432038,
+            "video": false,
+            "vote_count": 2,
+            "vote_average": 5,
+            "title": "Star Wars Downunder",
+            "release_date": "2013-11-18",
+            "original_language": "en",
+            "original_title": "Star Wars Downunder",
+            "genre_ids": [
+                878
+            ],
+            "backdrop_path": null,
+            "adult": false,
+            "overview": "The film tells the story of a lone Jedi: Merve Bushwacker, returning home after a long absence. His mission? To partake in a refreshing beverage, known locally as amber fluid. On his arrival, he is dismayed to discover the planet has become as dry as a dead dingo\u2032s donger, thanks to the tyrannical rule of Darth Drongo. Drongo has hoarded all the amber fluid in his impenetrable fortress \u201cDunny\u2019s Deep\u201d for reasons unknown. Can Merve, and a motley collection of unlikely allies band together to topple Drongo\u2019s evil regime? Will liberty and amber fluid flow freely once more?",
+            "poster_path": "/pj3XjbPvQQRVGvcWsGx0jcFZVIA.jpg"
+        },
+        {
+            "popularity": 1.753,
+            "vote_count": 14,
+            "video": false,
+            "poster_path": "/t09aalpktJzsMV9YSvfDDEWvaoL.jpg",
+            "id": 393047,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Lego Star Wars: The Yoda Chronicles - The Phantom Clone",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "title": "Lego Star Wars: The Yoda Chronicles - The Phantom Clone",
+            "vote_average": 6.6,
+            "overview": "Grievous lures Yoda away from the Jedi Temple and steals the Padawans light sabers. Dooku plans to use the crystals inside the light sabers to make Sith clones. It is up to Yoda and the Padawans to prevent Dooku from carrying out his plan.",
+            "release_date": "2013-05-04"
+        },
+        {
+            "popularity": 2.166,
+            "vote_count": 9,
+            "video": false,
+            "poster_path": null,
+            "id": 366224,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Lego Star Wars: The Yoda Chronicles - Menace of the Sith",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "title": "Lego Star Wars: The Yoda Chronicles - Menace of the Sith",
+            "vote_average": 6.3,
+            "overview": "Darth Sidious shows off the new Sith clone JEK who is an extremely powerful weapon. But JEK wants to be his own master and suddenly, both the Jedi and the Sith try to win him over. It now remains to be seen which side he chooses.",
+            "release_date": "2013-09-04"
+        },
+        {
+            "popularity": 0.6,
+            "vote_count": 0,
+            "video": false,
+            "poster_path": null,
+            "id": 368729,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "es",
+            "original_title": "Star Wars: The Holo Xperience",
+            "genre_ids": [
+                878
+            ],
+            "title": "Star Wars: The Holo Xperience",
+            "vote_average": 0,
+            "overview": "The Rebels come into the forest on the planet Endor. A soldier stays behind to guard the ship, but soon a pair of Imperial Scout Troopers arrive to investigate, and the mission is in danger of being discovered.",
+            "release_date": "2013-10-24"
+        },
+        {
+            "popularity": 2.705,
+            "vote_count": 7,
+            "video": false,
+            "poster_path": null,
+            "id": 379095,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Lego Star Wars: The Yoda Chronicles: Episode III: Attack of the Jedi",
+            "genre_ids": [
+                16
+            ],
+            "title": "Lego Star Wars: The Yoda Chronicles: Episode III: Attack of the Jedi",
+            "vote_average": 6.1,
+            "overview": "The tide of the war has turned.  DARTH SIDIOUS' plot to create  an army of SITH CLONES has failed,  along with his other plot  to clone the one CLONE the  SITH did clone into CLONES  cloned from that CLONE.  I have no idea what I just read.  Let's just say the bad guys  are losing.",
+            "release_date": "2013-11-27"
+        },
+        {
+            "popularity": 8.795,
+            "vote_count": 184,
+            "video": false,
+            "poster_path": "/sHQtutOPyEBzYdT3M8J0ze8hUav.jpg",
+            "id": 110354,
+            "adult": false,
+            "backdrop_path": null,
+            "original_language": "en",
+            "original_title": "Side by Side",
+            "genre_ids": [
+                99
+            ],
+            "title": "Side by Side",
+            "vote_average": 7.3,
+            "overview": "Since the invention of cinema, the standard format for recording moving images has been film. Over the past two decades, a new form of digital filmmaking has emerged, creating a groundbreaking evolution in the medium. Keanu Reeves explores the development of cinema and the impact of digital filmmaking via in-depth interviews with Hollywood masters, such as James Cameron, David Fincher, David Lynch, Christopher Nolan, Martin Scorsese, George Lucas, Steven Soderbergh, and many more.",
+            "release_date": "2012-08-19"
+        }
+    ]
+}
